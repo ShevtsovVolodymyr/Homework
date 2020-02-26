@@ -1,8 +1,16 @@
-.foto {float:left;}
-.description {justify-content: space-between}
+.photo {float:left;}
+.description {
+    justify-content:space-between;
+}
 #arrowpointer{
     list-style-type:"\27A4"
 }
+#nopointer{
+    list-style-type: none;
+}
+/*#test{
+    background: black;
+}*/
 b,h2{color: black;}    
 section {
 background: #FDEAA8;
